@@ -1,9 +1,13 @@
 this is the six file
 
 
+<<<<<<< HEAD
 
 one
 wto 
 
 
 the
+
+
+onn e 
